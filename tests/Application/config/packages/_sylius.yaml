@@ -10,6 +10,7 @@ imports:
 
 parameters:
     sylius_core.public_dir: '%kernel.project_dir%/public'
+    sylius_admin.path_name: admin
 
 sylius_shop:
     product_grid:
